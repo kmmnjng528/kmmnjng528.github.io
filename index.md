@@ -5,11 +5,9 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-Hi! I am a MS/Ph.D student in the Department of Artificial Intelligence at Korea University. My advisor is Prof. <a href="https://scholar.google.com/citations?hl=en&user=VJuuzLwAAAAJ">Christian Wallraven</a>, and I am part of the <a href="http://cogsys.korea.ac.kr/Cognitive_Systems.html">Cognitive Systems Lab</a>. 
+Hi! I am a Undergraduate student in the Department of Statistics at Sookmyung University. 
 
-- Phone : +82-10-5134-3621
-- E-mail: minsuksung@korea.ac.kr
-- blog: minsuksung-ai.tistory.com
+- E-mail: 
 
 Please contact me if you want to know more about me!  See CV for more information.
 
