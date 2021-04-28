@@ -1,26 +1,19 @@
 title: Minsuk Sung
-url: "https://github.com/minsuk-sung"
+url: "https://github.com/kmmnjng528"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./korea_logo.jpg"
+ins_logo: "./logo.jpg"
 
 tracking_id: UA-138665784-2 #
 
-
 footer: no
-footer_url: "https://github.com/minsuk-sung"
-footer_text: "Minsuk Sung"
+footer_url: "https://github.com/kmmnjng528"
+footer_text: "Minjeong Kim"
 
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "Blog"
-   link: "https://minsuksung-ai.tistory.com/"
- - name: "Facebook"
-   link: "https://www.facebook.com/minsuk.stone.sung/"
 
 remote_theme: ankitsultana/researcher@gem
 
